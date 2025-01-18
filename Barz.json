@@ -1,0 +1,25 @@
+{
+  "keys": [
+    {
+      "key": "barz",
+      "numbers": [
+        "6289531883767@s.whatsapp.net",
+        "6289876543210@s.whatsapp.net",
+        "628111222333@s.whatsapp.net"
+      ]
+    },
+    {
+      "key": "your_api_key_2",
+      "numbers": [
+        "6284445556667@s.whatsapp.net",
+          "6287778889991@s.whatsapp.net"
+      ]
+    },
+       {
+      "key": "your_api_key_3",
+      "numbers": [
+          "6285554443332@s.whatsapp.net"
+       ]
+    }
+  ]
+}
