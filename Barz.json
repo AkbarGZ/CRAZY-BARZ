@@ -1,7 +1,7 @@
 {
   "keys": [
     {
-      "key": "barz",
+      "key": "owner",
       "numbers": [
         "6289531883767@s.whatsapp.net",
         "6289876543210@s.whatsapp.net",
@@ -9,10 +9,19 @@
       ]
     },
     {
-      "key": "your_api_key_2",
+      "key": "buyer",
       "numbers": [
-        "6284445556667@s.whatsapp.net",
-          "6287778889991@s.whatsapp.net"
+        "62881012163184@s.whatsapp.net",
+        "62881025840629@s.whatsapp.net", 
+"6281377237634@s.whatsapp.net",
+"6285959673913@s.whatsapp.net",
+"6283150360655@s.whatsapp.net",
+"6285183321145@s.whatsapp.net",
+"6289521187773@s.whatsapp.net",
+"6285642644608@s.whatsapp.net",
+"6289674824040@s.whatsapp.net",
+"6285183321145@s.whatsapp.net"
+
       ]
     },
        {
